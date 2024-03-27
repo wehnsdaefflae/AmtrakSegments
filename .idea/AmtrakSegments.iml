@@ -5,7 +5,6 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea/copilot/chatSessions" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/markdown" />
-      <excludeFolder url="file://$MODULE_DIR$/markdown_files" />
       <excludeFolder url="file://$MODULE_DIR$/pdf" />
       <excludeFolder url="file://$MODULE_DIR$/routes" />
       <excludeFolder url="file://$MODULE_DIR$/tsv" />
